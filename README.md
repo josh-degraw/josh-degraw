@@ -5,5 +5,5 @@ I'm particularly interested in .NET (C# and F#), React and Typescript.
 
 
 <div style="display:none;visibility:hidden;">
-<a href="https://hachyderm.io/@rawdeg" rel="me">I'm on Mastodon</a>
+<a href="https://hachyderm.io/@rawdeg" rel="me"></a>
 </div>
