@@ -3,7 +3,9 @@ I'm a Software Engineer currently working at [Pluralsight](https://pluralsight.c
 
 I'm particularly interested in .NET (C# and F#), React and Typescript. 
 
+I also have: 
 
-<div style="display:none;">
-   <a href="https://hachyderm.io/@rawdeg" style="display:none;" rel="me"></a>
-</div>
+- My personal site: http://degraw.dev
+- Twitter: https://twitter.com/rawdeg
+- Mastodon: <a href="https://hachyderm.io/@rawdeg" rel="me">https://hachyderm.io/@rawdeg</a>
+
