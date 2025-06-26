@@ -1,12 +1,11 @@
 # Hi there 👋
-I'm a Senior Software Engineer currently working at Shopify
+I'm a Senior Software Engineer, formerly at Shopify and Pluralsight
 
-I'm particularly interested in .NET (C# and F#), Rust, React and Typescript. 
+I'm particularly interested in C#, F#, Rust, React and Typescript.
 
-I also have: 
+gimme ur types
 
-- My personal site: http://degraw.dev
-- BlueSky: https://bsky.app/profile/degraw.dev
-- Twitter: https://twitter.com/rawdeg
-- Mastodon: <a href="https://hachyderm.io/@rawdeg" rel="me">https://hachyderm.io/@rawdeg</a>
+- [DeGraw.dev](http://degraw.dev)
+- [BlueSky](https://bsky.app/profile/degraw.dev)
+- [Twitter](https://twitter.com/rawdeg)
 
