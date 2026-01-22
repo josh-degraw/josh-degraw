@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm a Senior Software Engineer, formerly at Shopify and Pluralsight
+I'm a Senior Software Engineer, formerly at Shopify and Pluralsight.
+
 I'm particularly interested in Typescript, React, Rust, and .NET (C# and F#).
 
 - [DeGraw.dev](http://degraw.dev)
